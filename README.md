@@ -1,6 +1,6 @@
 # reaction-timer
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple vue project to measure mouse click reaction time
 
 ## Recommended IDE Setup
 
